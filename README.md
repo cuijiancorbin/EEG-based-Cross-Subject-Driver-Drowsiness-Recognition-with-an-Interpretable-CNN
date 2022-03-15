@@ -19,5 +19,5 @@ The processed dataset has been uploaded to: https://figshare.com/articles/datase
 
 If you have any problems, please Contact Dr. Cui Jian at cuij0006@ntu.edu.sg
 
-Known Issue: The code has been tested on library mne v0.18 and v0.19.2. It works perfectly for v0.18, while there will be some Deprecation Warnings for v0.19.2.
+Known Issue: The file "VisTechnique.py" has been tested on library mne v0.18 and v0.19.2. It works perfectly for v0.18, while there will be some Deprecation Warnings for v0.19.2.
 
