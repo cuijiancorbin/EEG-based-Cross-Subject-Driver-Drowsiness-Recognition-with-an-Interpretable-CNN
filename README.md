@@ -19,5 +19,5 @@ The processed dataset has been uploaded to: https://figshare.com/articles/datase
 
 If you have any problems, please Contact Dr. Cui Jian at cuij0006@ntu.edu.sg
 
-Known Issue: The code works with library mne v0.18，while there could be problems with later versions of mne. I will work on this problem and solve it soon.
+Known Issue: The code has been tested on library mne v0.18 and v0.19.2. It works perfectly for v0.18, while there will be some Deprecation Warnings for v0.19.2.
 
